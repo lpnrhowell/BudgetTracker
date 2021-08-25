@@ -16,7 +16,7 @@ You can clone this repo.
 
 ### Heroku Deployment
 
-[Heroku](https://track-my-funds.herokuapp.com/).
+[BUDGET TRACKER DEPLOYED LINK](https://track-my-funds.herokuapp.com/).
 
 ### Video of the app
 ​
